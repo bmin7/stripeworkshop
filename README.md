@@ -63,6 +63,9 @@ We will use a pre-packaged detection from Panther and modify it to our liking wi
 ## Exercise 2 - Enrich a Detection with GreyNoise
 We're going to walk through how to use an enrichment provider in product to enrich a detection and alert. 
 
+- [GreyNoise](https://docs.panther.com/enrichment/greynoise)
+- [Lookup Tables](https://docs.panther.com/enrichment/lookup-tables)
+
 ** Sample Data for Brute Force Detection
 ```
 {
@@ -94,14 +97,6 @@ We're going to walk through how to use an enrichment provider in product to enri
 	"p_parse_time": "2021-06-04 10:02:33.650807"
 }
 ```
-
-
-
-
-
-
-
-
 
 
 
